@@ -3,7 +3,7 @@
     测试动态表单页面
 
     <div class="component-box">
-      <FormDetail />
+      <!-- <FormDetail /> -->
     </div>
   </div>
 </template>

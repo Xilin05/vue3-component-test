@@ -9,7 +9,7 @@
 </template>
 
 <script setup lang="ts">
-import Header from './header/index.vue'
+import Header from './header/index.vue';
 </script>
 
 <style scoped lang="scss">
@@ -17,5 +17,9 @@ import Header from './header/index.vue'
   width: 100%;
   height: 100%;
   overflow: hidden;
+
+  section {
+    height: 100%;
+  }
 }
 </style>
